@@ -8,3 +8,4 @@
 - [Day 03:](https://github.com/cecirio/30-days-lost-in-space/tree/main/logs/day03) I'm worried about your battery levels
 - [Day 04:](https://github.com/cecirio/30-days-lost-in-space/tree/main/logs/day04) Cabin Lighting
 - [Day 05:](https://github.com/cecirio/30-days-lost-in-space/tree/main/logs/day05) Creative Day #1
+- [Day 06:](https://github.com/cecirio/30-days-lost-in-space/tree/main/logs/day06) Time to fix the battery
