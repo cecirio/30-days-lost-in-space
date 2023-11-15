@@ -7,3 +7,4 @@
 - [Day 02:](https://github.com/cecirio/30-days-lost-in-space/tree/main/logs/day02) It's really dark in here...
 - [Day 03:](https://github.com/cecirio/30-days-lost-in-space/tree/main/logs/day03) I'm worried about your battery levels
 - [Day 04:](https://github.com/cecirio/30-days-lost-in-space/tree/main/logs/day04) Cabin Lighting
+- [Day 05:](https://github.com/cecirio/30-days-lost-in-space/tree/main/logs/day05) Creative Day #1
